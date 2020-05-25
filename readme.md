@@ -19,6 +19,22 @@
 ###   Install Atom Packages using AtomProgManager and terminal(command line)
 > apm install auto-indent atom-ternjs file-icons language-ejs language-babel linter linter-erb linter-csslint linter-eslint linter-js-yaml
 
+## 
+### 
+
+### 
+
+### 
+
+## 
+### 
+
+## 
+### 
+
+## 
+
+### 
 
 
 
@@ -51,5 +67,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4MzcyNjkzLDE5OTI1MDQyODZdfQ==
+eyJoaXN0b3J5IjpbLTIyMjU2ODQ5MywxOTkyNTA0Mjg2XX0=
 -->
