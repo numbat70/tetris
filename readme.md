@@ -15,9 +15,7 @@
    - Show Invisibles
    - Tab Type Soft
 
-- apm install auto-indent atom-ternjs file-icons language-ejs language-babel linter linter-erb linter-csslint linter-eslint linter-js-yaml
-
-
+> apm install auto-indent atom-ternjs file-icons language-ejs language-babel linter linter-erb linter-csslint linter-eslint linter-js-yaml
 
 
 ## Javascript Methods
@@ -50,5 +48,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE0MDgxMjRdfQ==
+eyJoaXN0b3J5IjpbLTEyOTAzMTM1NTNdfQ==
 -->
