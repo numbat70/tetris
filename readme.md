@@ -3,8 +3,9 @@
 ## ATOM - Editor
 ### Install ATOM
 
-### Files
+### Create Files
 - touch index.html style.css app.js
+-### Launch Atom to setup project 
 - atom. (and then setup project in Atom)
 
 ### Atom:
@@ -17,6 +18,8 @@
 
 ###   Install Atom Packages using AtomProgManager and terminal(command line)
 > apm install auto-indent atom-ternjs file-icons language-ejs language-babel linter linter-erb linter-csslint linter-eslint linter-js-yaml
+
+
 
 
 ## Javascript Methods
@@ -42,12 +45,11 @@
 
 ## 
 
-
 ## 
 
 ## 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjUwNDI4Nl19
+eyJoaXN0b3J5IjpbNjM4MzcyNjkzLDE5OTI1MDQyODZdfQ==
 -->
