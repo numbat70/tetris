@@ -15,6 +15,7 @@
    - Show Invisibles
    - Tab Type Soft
 
+###   Install Atom Packages using AtomProgManager and terminal(command line)
 > apm install auto-indent atom-ternjs file-icons language-ejs language-babel linter linter-erb linter-csslint linter-eslint linter-js-yaml
 
 
@@ -48,5 +49,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTAzMTM1NTNdfQ==
+eyJoaXN0b3J5IjpbMTk5MjUwNDI4Nl19
 -->
