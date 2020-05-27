@@ -36,11 +36,6 @@
   - Spell check js code 
 
 
-
-
-
-
-
 ## HTML (07:45)
 ### Basic html
 ```
@@ -62,12 +57,14 @@ Ensure that .js and .css filenames are used
 Link to js file
 
 Add 
-```<script src="app.js" charset=utf-8"></script>
+```
+<script src="app.js" charset=utf-8"></script>
 ```
 to head of html file
 ### Javascript Files
 Add to js file
-```document.addEventListener('DOMContentLoaded', () => {
+```
+document.addEventListener('DOMContentLoaded', () => {
   
 })
 ```
